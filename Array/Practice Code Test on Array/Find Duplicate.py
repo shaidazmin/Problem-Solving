@@ -1,7 +1,6 @@
 class Solutions:
     def find_duplicate(self, nums):
         seen = set()
-      
         for i in range(len(nums)):
             if nums[i] in seen:
                 return nums[i]

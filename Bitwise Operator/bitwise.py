@@ -1,0 +1,7 @@
+print(45 & 10)
+print(19 | 15)
+print( ~ 15)
+print(0 ^ 1)
+print(1 ^ 2)
+print(16 << 19)
+print(14 >> 13)
