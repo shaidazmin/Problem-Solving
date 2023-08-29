@@ -8,4 +8,5 @@ class Solution:
         
 A = input()
 B = input()
+
 print(Solution().shortest_palindrome(A,B))
